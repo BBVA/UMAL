@@ -45,11 +45,11 @@ You have to collect the last time each apartment appeared within the months avai
 ## Summary of Notebooks
 (Currently tested on Keras (2.2.4) and TensorFlow (1.14) but it was implemented to work in previous versions).
 
-#### [UMAL results to the synthetic regression problem proposed in the paper](Synthetic regression problem.ipynb)
+#### [UMAL results to the synthetic regression problem proposed in the paper](Room%20price%20forecasting%20problem%20-%20BCN.ipynb)
 
-#### [UMAL results obtained in the proposed room price forecasting problem in Barcelona](Room price forecasting problem - BCN.ipynb)
+#### [UMAL results obtained in the proposed room price forecasting problem in Barcelona](Room%20price%20forecasting%20problem%20-%20YVC.ipynb)
 
-#### [UMAL results obtained in the proposed room price forecasting problem in Vancouver](Room price forecasting problem - YVC.ipynb)
+#### [UMAL results obtained in the proposed room price forecasting problem in Vancouver](Synthetic%20regression%20problem.ipynb)
 
 
 ## Contact  
